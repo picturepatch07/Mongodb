@@ -1,0 +1,5 @@
+View all database
+--> show dbs
+
+Create a new database
+--> use dbName
